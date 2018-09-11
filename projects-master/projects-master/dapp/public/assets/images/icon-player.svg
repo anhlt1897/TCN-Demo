@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-video</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-301.000000, -3978.000000)">
+            <rect fill="" x="0" y="0" width="1440" height="4823"></rect>
+            <g id="Group-7-Copy" transform="translate(-36.000000, 3742.000000)">
+                <g id="Group-10">
+                    <g id="icon-video" transform="translate(337.000000, 236.000000)">
+                        <circle id="Oval-3" fill="#219850" cx="40" cy="40" r="40"></circle>
+                        <path d="M33.8119234,28.569443 L33.8119234,49.4275871 C33.8119234,49.8675743 34.2654145,50.1425664 34.6282073,49.9225728 L51.4073762,39.4935007 C51.7631923,39.2735071 51.7631923,38.7303979 51.4073762,38.5104043 L34.6282073,28.0813322 C34.2654145,27.8544638 33.8119234,28.1294558 33.8119234,28.569443 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
